@@ -3,6 +3,10 @@
 
 https://mukhtorov7-login-react.netlify.app/
 
+again one project
+Clone Pomodoro
+https://mukhtorov6-pomodoro.netlify.app/#/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
